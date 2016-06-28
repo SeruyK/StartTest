@@ -11,3 +11,6 @@ D:\записник\MyRep\MyWPF\MyWPF\obj\Debug\MyWPF.Properties.Resources.resou
 D:\записник\MyRep\MyWPF\MyWPF\obj\Debug\MyWPF.csproj.GenerateResource.Cache
 D:\записник\MyRep\MyWPF\MyWPF\obj\Debug\MyWPF.exe
 D:\записник\MyRep\MyWPF\MyWPF\obj\Debug\MyWPF.pdb
+D:\project\GitHub\StartTest\MyWPF\MyWPF\bin\Debug\MyWPF.exe.config
+D:\project\GitHub\StartTest\MyWPF\MyWPF\obj\Debug\MyWPF.exe
+D:\project\GitHub\StartTest\MyWPF\MyWPF\obj\Debug\MyWPF.pdb
